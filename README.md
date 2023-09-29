@@ -35,7 +35,7 @@ https://youtu.be/T3khZ289B6w
 ## Contributors <a name = "Contributors"></a>
 <table  >
   <tr>
-     <td ><a href="https://github.com/IMohitt"><img src="	https://avatars.githubusercontent.com/u/137434143?v=4" width="150px;" alt=""/><br /><sub><b>Mohit Sharma</b></sub></a><br /></td>
+     <td ><a href="https://github.com/IMohitt"><img src="https://avatars.githubusercontent.com/u/137434143?v=4" width="150px;" alt=""/><br /><sub><b>Mohit Sharma</b></sub></a><br /></td>
   </tr>
 </table>
 
